@@ -27,6 +27,6 @@ Programs:
 
 In text mode:
 
-![Alt text](openfile.png?raw=true "Openfile dialog")
+![Alt text](optext.png?raw=true "Openfile dialog")
 
 EOF
